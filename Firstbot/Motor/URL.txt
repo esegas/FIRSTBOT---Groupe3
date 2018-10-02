@@ -1,0 +1,6 @@
+Some usefull site :
+
+https://poppy-project.github.io/pypot/pypot.dynamixel.html
+https://poppy-project.github.io/pypot/index.html
+
+http://support.robotis.com/en/product/actuator/dynamixel/mx_series/mx-12w.htm#Actuator_Address_04
